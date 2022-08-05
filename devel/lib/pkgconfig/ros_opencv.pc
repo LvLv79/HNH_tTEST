@@ -1,0 +1,8 @@
+prefix=/home/lvlv/Desktop/HNH_test/devel
+
+Name: ros_opencv
+Description: Description of ros_opencv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
